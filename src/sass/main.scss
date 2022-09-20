@@ -1,0 +1,5 @@
+@use "bootstrap/scss/mixins" as bs-mixins;
+
+.img-fluid {
+  @include bs-mixins.img-fluid();
+}
